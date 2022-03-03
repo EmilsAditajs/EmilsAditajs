@@ -2,7 +2,7 @@
 
 I am software Developer from Riga, Latvia. 
 
-Learn something new everyday.
+Committed to learn something new everyday.
 
 PHP, -MySQL,
 Laravel,
