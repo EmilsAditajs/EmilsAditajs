@@ -2,7 +2,7 @@
 
 I am software Developer from Riga, Latvia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your_GitHub_username>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilsAditajs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 PHP -MySQL
 Laravel
