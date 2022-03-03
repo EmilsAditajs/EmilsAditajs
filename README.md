@@ -11,7 +11,7 @@ HTML & CSS
 GIT
 
 My latest Projects:
-![FriendsApp](https://github.com/EmilsAditajs/FriendsApp)
+[FriendsApp](https://github.com/EmilsAditajs/FriendsApp)
 Login System
 Stock monitoring app
 
