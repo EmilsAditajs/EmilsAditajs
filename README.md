@@ -2,8 +2,6 @@
 
 I am software Developer from Riga, Latvia
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmilsAditajs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 PHP -MySQL
 Laravel
 Unit & Integration testing (including TDD methods)
@@ -13,7 +11,7 @@ HTML & CSS
 GIT
 
 My latest Projects:
-FriendsApp
+![FriendsApp](https://github.com/EmilsAditajs/FriendsApp)
 Login System
 Stock monitoring app
 
